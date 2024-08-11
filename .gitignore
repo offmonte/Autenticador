@@ -1,0 +1,9 @@
+# Ignorar o diretorio __pycache__
+__pycache__/
+
+# Ignorar o arquivo chave.txt
+chave.txt
+
+# Ignorar o arquivo qrcode.png
+qrcode.png
+   
